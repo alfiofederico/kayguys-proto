@@ -22,8 +22,8 @@ body {
 }
 
 .carousel-image-1 {
-  background: url('https://cdn.pixabay.com/photo/2019/06/23/05/55/world-4292933_960_720.jpg');
-  background-size: center;
+  background: url('../img/newBannerText.png');
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
