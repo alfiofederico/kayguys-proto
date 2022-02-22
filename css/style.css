@@ -22,10 +22,11 @@ body {
 }
 
 .carousel-image-1 {
-  background: url('../img/newBannerText.png');
+  background: url('../img/new\ banner.png');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+ 
 }
 
 .carousel-image-2 {
